@@ -31,7 +31,7 @@ int main(){
     }
     else
     {
-        printf("the point is outside the circle");
+        printf("the point (x1,y1) is outside the circle");
     }
 
     return 0;   
